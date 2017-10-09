@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Leiningen: cljsjs/google-maps:3.18-1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/cljsjs/google-maps/3.18-1/google-maps-3.18-1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
